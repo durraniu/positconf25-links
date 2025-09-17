@@ -7,6 +7,7 @@
 * Web applications with Shiny and React (and AI): https://github.com/wch/shiny-react, https://github.com/wch/create-shiny-react-app, and https://github.com/wch/anthropic_dashboard
 * Observability at scale: Monitoring Shiny Applications with OpenTelemetry: https://github.com/schloerke/presentation-2025-09-17-posit-conf-otel
 * shinystate: Launching collaboration and session management to new heights in Shiny applications: https://rpodcast.github.io/shinystate-positconf2025/#/titleslide
+* surveydown: A Markdown-Based Platform for Interactive and Reproducible Surveys Using Quarto and Shiny: https://github.com/surveydown-dev/surveydown and https://github.com/jhelvy/2025-posit-conf-surveydown
 
 
 
