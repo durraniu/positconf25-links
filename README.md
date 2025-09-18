@@ -10,6 +10,7 @@
 * surveydown: A Markdown-Based Platform for Interactive and Reproducible Surveys Using Quarto and Shiny: https://github.com/surveydown-dev/surveydown and https://github.com/jhelvy/2025-posit-conf-surveydown
 * Using Quarto to Improve Formatting and Automate the Generation of Hundreds of Reports: https://github.com/ksrinc/posit_conf_2025_quarto_automation
 * Outgrowing Your Laptop with Positron: https://github.com/austin3dickey/ssh-demo
+* Teaching data visualization with R entirely in Quarto: https://github.com/clauswilke/PositConf2025
 
 
 
