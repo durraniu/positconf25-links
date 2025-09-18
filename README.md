@@ -11,6 +11,8 @@
 * Using Quarto to Improve Formatting and Automate the Generation of Hundreds of Reports: https://github.com/ksrinc/posit_conf_2025_quarto_automation
 * Outgrowing Your Laptop with Positron: https://github.com/austin3dickey/ssh-demo
 * Teaching data visualization with R entirely in Quarto: https://github.com/clauswilke/PositConf2025
+* Brand YML and Dark Mode in Quarto: https://github.com/gordonwoodhull/brand-yml-lightning-talk
+* Teaching Data Sharing through R Data Packages: https://github.com/mcconvil/jeans/tree/main
 
 
 
