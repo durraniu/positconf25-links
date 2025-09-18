@@ -13,6 +13,7 @@
 * Teaching data visualization with R entirely in Quarto: https://github.com/clauswilke/PositConf2025
 * Brand YML and Dark Mode in Quarto: https://github.com/gordonwoodhull/brand-yml-lightning-talk
 * Teaching Data Sharing through R Data Packages: https://github.com/mcconvil/r-data-package-talk-f25 and https://github.com/mcconvil/jeans/tree/main
+* Birthing the **pregnancy** package: https://github.com/EllaKaye/pregnancy-lightning-talk and https://ellakaye.github.io/pregnancy-lightning-talk
 
 
 
