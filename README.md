@@ -19,7 +19,7 @@
 * maidr: Empowering Accessible, Multimodal Data Visualizations: https://github.com/xability/py-maidr
 * Same Data, Different Tools: Visualizing with R and Python: https://github.com/summitllc/Du-Bois-Challenge-2024
 * How I got unstuck with Python: https://juliasilge.github.io/get-unstuck-with-python/#/title-slide
-* Practical {renv} : https://github.com/shannonpileggi/practical-renv
+* Practical {renv} : https://github.com/shannonpileggi/practical-renv and https://github.com/shannonpileggi/jsonlite-example
 
 
 
