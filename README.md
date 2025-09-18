@@ -15,6 +15,7 @@
 * Teaching Data Sharing through R Data Packages: https://github.com/mcconvil/r-data-package-talk-f25 and https://github.com/mcconvil/jeans/tree/main
 * Birthing the **pregnancy** package: https://github.com/EllaKaye/pregnancy-lightning-talk and https://ellakaye.github.io/pregnancy-lightning-talk
 * Disposable Shiny Apps: https://github.com/JamesHWade/posit-conf-2025
+* Theming Made Easy: Introducing brand.yml: https://github.com/gadenbuie/brand-yml-posit-conf-2025
 
 
 
