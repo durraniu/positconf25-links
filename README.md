@@ -16,6 +16,7 @@
 * Birthing the **pregnancy** package: https://github.com/EllaKaye/pregnancy-lightning-talk and https://ellakaye.github.io/pregnancy-lightning-talk
 * Disposable Shiny Apps: https://github.com/JamesHWade/posit-conf-2025
 * Theming Made Easy: Introducing brand.yml: https://github.com/gadenbuie/brand-yml-posit-conf-2025
+* maidr: Empowering Accessible, Multimodal Data Visualizations: https://github.com/xability/py-maidr
 
 
 
